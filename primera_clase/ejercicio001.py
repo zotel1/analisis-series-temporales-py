@@ -1,4 +1,6 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+
 diet.index = pd.to_datetime(diet.index)
 
 
